@@ -1,0 +1,45 @@
+10£¬still.mp3
+11£¬while.mp3
+12£¬nevertheless.mp3
+13£¬since.mp3
+14£¬that's why.mp3
+15£¬the reason.mp3
+16£¬as.mp3
+17£¬in fact.mp3
+18£¬as a matter of fact.mp3
+19£¬have to.mp3
+1£¬actually.mp3
+20£¬must.mp3
+21£¬may.mp3
+22£¬should.mp3
+23£¬would.mp3
+24£¬can.mp3
+25£¬can't.mp3
+26£¬mustn't.mp3
+27£¬shouldn't.mp3
+28£¬wouldn't.mp3
+29£¬may not.mp3
+2£¬because.mp3
+30£¬need.mp3
+31£¬needn't.mp3
+32£¬ought to.mp3
+33£¬most.mp3
+34£¬more.mp3
+35£¬less.mp3
+36£¬best.mp3
+37£¬worst.mp3
+38£¬first.mp3
+39£¬second.mp3
+3£¬cuz.mp3
+40£¬third.mp3
+41£¬fourth.mp3
+42£¬fifth.mp3
+43£¬finally.mp3
+44£¬last.mp3
+45£¬in the end.mp3
+4£¬but.mp3
+5£¬however.mp3
+6£¬yet.mp3
+7£¬although.mp3
+8£¬though.mp3
+9£¬even though.mp3
